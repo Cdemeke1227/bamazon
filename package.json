@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront app that will take in orders from customers and deplete stock from the store's inventory",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cdemeke1227/bamazon.git"
+  },
+  "author": "Christopher Demeke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cdemeke1227/bamazon/issues"
+  },
+  "homepage": "https://github.com/Cdemeke1227/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
