@@ -11,7 +11,7 @@ The package.json lists dependent node packages as listed below:
 *    [mysql] (https://www.npmjs.com/package/mysql)
 #### inquirer
 ```$npm install inquirer```
-*   [inquirer] (https://www.npmjs.com/package/inquirer
+*   [inquirer] (https://www.npmjs.com/package/inquirer)
 
 
 What things you need to install the software and how to install them
@@ -53,7 +53,7 @@ To use the [bamazon]
 ## Example Video
 To see the app in action click this link:
 
-    (https://drive.google.com/file/d/1eMN6k-HfHaaAQ_Do66q8QBM078esRba7/view?usp=sharing)
+[Video Link](https://drive.google.com/file/d/1eMN6k-HfHaaAQ_Do66q8QBM078esRba7/view?usp=sharing)
 
 
 
