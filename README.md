@@ -36,7 +36,7 @@ These instructions will get you a copy of the project up and running on your loc
 To use the [bamazon] 
 
 1. Using terminal (bash/cmd)
-*   Go to host directory:   ```$ cd bamazon/``
+    *   Go to host directory:   ```$ cd bamazon/``
 
 ### bamazon Customer Command Line Interface
 
@@ -51,8 +51,8 @@ To use the [bamazon]
 2. Follow prompt to select a option from the menu.
 
 ## Example Video
-To see the app in action click link below:
-    ```https://drive.google.com/file/d/1eMN6k-HfHaaAQ_Do66q8QBM078esRba7/view?usp=sharing```
+To see the app in action click this link:
+    (https://drive.google.com/file/d/1eMN6k-HfHaaAQ_Do66q8QBM078esRba7/view?usp=sharing)
 
 
 
