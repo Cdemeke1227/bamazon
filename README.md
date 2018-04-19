@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Download the directory form git hub:
     *   ``git clone: https://github.com/Cdemeke1227/bamazon.git``
-    *   ```$ cd bamazon/``
+    *   ```$ cd bamazon/```
 
 2. Using terminal (bash/cmd) run npm install from the [bamazon] directory retrieve node modules
 
