@@ -1,6 +1,6 @@
 # Project Title: Bamazon
 
-An Amazon-like storefront app that will take in orders from customers and deplete stock from the store's inventory.
+A storefront apps that will take in orders from customers and allow managers to update inventory. 
 
 ### Prerequisites
 
