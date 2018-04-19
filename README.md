@@ -38,12 +38,17 @@ To use the [bamazon]
 1. Using terminal (bash/cmd)
 *   Go to host directory:   ```$ cd bamazon/``
 
-### bamazon Customer Command Line Interface      
-    ```node bamazonCustomer.js```
+### bamazon Customer Command Line Interface
+
+1. To start app type: ```node bamazonCustomer.js```
+
+2. Follow prompt to place an order.
 
 ### bamazon Manager Comand Line Interface
 
-    ```node bamazonManager.js```
+1. To start app type: ```node bamazonManager.js```
+
+2. Follow prompt to select a option from the menu.
 
 
 ## Authors
