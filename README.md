@@ -8,10 +8,13 @@ The package.json lists dependent node packages as listed below:
 
 #### mysql
 ```$ npm install mysql```
-*    [mysql] (https://www.npmjs.com/package/mysql)
+
+[mysql](https://www.npmjs.com/package/mysql)
+
 #### inquirer
 ```$npm install inquirer```
-*   [inquirer] (https://www.npmjs.com/package/inquirer)
+
+[inquirer](https://www.npmjs.com/package/inquirer)
 
 
 What things you need to install the software and how to install them
