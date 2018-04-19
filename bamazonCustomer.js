@@ -26,12 +26,12 @@ function userOrder(orderNumber, res) {
         {
             type: "input",
             name: "name",
-            message: "What is your name"
+            message: "What is your name:"
         },
         {
             type: "input",
             name: "item_Id",
-            message: "What is the ID of the product you want",
+            message: "What is the ID of the product you want:",
             // input validation to make sure number is positive interger that is on the list of items
             validate: function (value) {
                 var id = Number.isInteger(parseFloat(value));
@@ -81,7 +81,7 @@ function userOrder(orderNumber, res) {
             // console.log(update.sql);
             console.log("==============================================");
             console.log("");
-            console.log(`Order number ${orderNumber} for ${user.name}`);
+            console.log(`Order transaction number HL# ${orderNumber} for ${user.name}`);
 
             console.log("");
             console.log(`You have ordered ${quantity} ${res[j].product_name}`);
