@@ -61,7 +61,5 @@ To see the app in action click this link:
 
 * **Christopher Demeke** - *Initial work* - [Cdemeke1227](https://github.com/Cdemeke1227)
 
-## Acknowledgments
 
-* Hat tip to anyone who's code was used
 
