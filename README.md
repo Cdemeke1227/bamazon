@@ -58,7 +58,6 @@ To see the app in action click this link:
 
 [Video Link](https://drive.google.com/file/d/1eMN6k-HfHaaAQ_Do66q8QBM078esRba7/view?usp=sharing)
 
-![bamazon](/business-code-coding-943096.jpg)
 
 
 ## Authors
