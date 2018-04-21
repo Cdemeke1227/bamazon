@@ -58,8 +58,8 @@ To see the app in action click this link:
 
 [Video Link](https://drive.google.com/file/d/1eMN6k-HfHaaAQ_Do66q8QBM078esRba7/view?usp=sharing)
 
-![GitHub Logo](/business-code-coding-943096.jpg)
-Format: ![Alt Text](url)
+![bamazon](/business-code-coding-943096.jpg)
+
 
 ## Authors
 
